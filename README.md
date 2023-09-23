@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Munnakumargupta
-- 👀 I’m interested in Data Business Anakytics
+- 👀 I’m interested in Data Business Analytics
 - 🌱 I’m currently learning AI/ML/SQL/POWER BI
 
 <!---
