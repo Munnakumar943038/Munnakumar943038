@@ -42,7 +42,7 @@ Explore my repositories for more!
 
 Thanks for visiting my GitHub profile! Feel free to explore my work and connect with me. Let's collaborate on exciting data projects! 📊🔍
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Munna kumar gupta GitHub Stats](https://github-readme-stats.vercel.app/api?username=munnakumargupta&show_icons=true)
 
 <!--
 **Note: You can add GitHub stats using a service like https://github.com/Munna kumar gupta/github-readme-stats.
