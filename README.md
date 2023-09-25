@@ -31,7 +31,7 @@ Explore my repositories for more!
 
 ![Python badge](https://img.shields.io/badge/Python-3.10.4-blue.svg)
 ![SQL badge](https://img.shields.io/badge/SQL-14.2.1-blue.svg)
-![Power BI badge](https://img.shields.io/badge/Power_BI-Certified-orange.svg)
+![Power BI badge](https://img.shields.io/badge/Power_BI-orange.svg)
 ![Excel badge](https://img.shields.io/badge/Excel-Expert-orange.svg)
 
 ## Fun Facts
