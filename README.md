@@ -36,7 +36,7 @@ Explore my repositories for more!
 
 ![Python badge](https://img.shields.io/badge/Python-3.10.4-blue.svg)
 ![SQL badge](https://img.shields.io/badge/SQL-14.2.1-blue.svg)
-![excel badge](https://img.shields.io/badge/Excel-14.2.1-blue.svg)
+
 
 Thanks for visiting my GitHub profile! Feel free to explore my work and connect with me. Let's collaborate on exciting data projects! 📊🔍
 
