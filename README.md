@@ -1,6 +1,6 @@
 ## Data Analytics Profile
 
-Hi, I'm Munna Kumar Gupta, I'm passionate about using data to solve real-world problems and help businesses make better decisions.
+Hi, I'm [your name], a data analyst with [number] years of experience in the industry. I'm passionate about using data to solve real-world problems and help businesses make better decisions.
 
 My skills include:
 
