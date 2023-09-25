@@ -1,17 +1,5 @@
-<style>
-    body {
-      background-image: url('URL_OF_YOUR_IMAGE');
-      background-size: cover;
-      background-repeat: no-repeat;
-      background-attachment: fixed;
-    }
-    .content-container {
-      background-color: rgba(255, 255, 255, 0.8); /* Add a semi-transparent white background to make text readable */
-      padding: 20px;
-    }
-  </style>
-  
-  # Hi, I'm Munna kumar gupta 👋
+
+ # Hi, I'm Munna kumar gupta 👋
 
 Welcome to my data analytics playground! 📊 I'm passionate about turning raw data into actionable insights. Let's explore the world of data together! 🚀
 
