@@ -38,6 +38,7 @@ Explore my repositories for more!
 ![SQL badge](https://img.shields.io/badge/SQL-14.2.1-blue.svg)
 <img src="(https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg)" width="100" alt="Power BI Logo">
 <img src="https://commons.wikimedia.org/wiki/File:Microsoft_Excel_Logo_(2013-2019).svg" width="100" alt="Excel Logo">
+### ![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg) Power BI
 
 Thanks for visiting my GitHub profile! Feel free to explore my work and connect with me. Let's collaborate on exciting data projects! 📊🔍
 
