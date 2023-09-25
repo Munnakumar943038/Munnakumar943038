@@ -19,6 +19,14 @@ Welcome to my data analytics playground! 📊 I'm passionate about turning raw d
 - 📊 Dashboards
 - 📈 Exploratory Data Analysis (EDA)
 
+## Projects
+
+Here are a few projects I'm proud of:
+
+- [Project 1: Title](Link to project)
+- [Project 2: Title](Link to project)
+- [Project 3: Title](Link to project)
+
 Explore my repositories for more!
 
 ## Let's Connect
@@ -27,18 +35,10 @@ Explore my repositories for more!
 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
 
-## Badges
+## Skills (Technical)
 
 ![Python badge](https://img.shields.io/badge/Python-3.10.4-blue.svg)
 ![SQL badge](https://img.shields.io/badge/SQL-14.2.1-blue.svg)
-![Power BI badge](https://img.shields.io/badge/Power_BI-orange.svg)
-![Excel badge](https://img.shields.io/badge/Excel-Expert-orange.svg)
-
-## Fun Facts
-
-- 🌱 I'm currently learning [Tech Stack/Tool Name].
-- 🚴‍♂️ I enjoy [Hobby].
-- 📚 I'm reading [Book Title].
 
 Thanks for visiting my GitHub profile! Feel free to explore my work and connect with me. Let's collaborate on exciting data projects! 📊🔍
 
