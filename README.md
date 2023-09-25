@@ -16,26 +16,17 @@ I 'm Data Analyst with  experience in using data to drive business results. Prov
 - 📊 Dashboards
 - 📈 Exploratory Data Analysis (EDA)
 
-## Projects
-
-Here are a few projects I'm proud of:
-
-- [Project 1: Title](Link to project)
-- [Project 2: Title](Link to project)
-- [Project 3: Title](Link to project)
-
-Explore my repositories for more!
-
 ## Let's Connect
 
-📫 Feel free to reach out: [Email](mailto:youremail@example.com)
-💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-🐦 Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
+📫 Feel free to reach out: [Email](munnakumar943038@gmail.com)
+💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/munna-kumar-gupta/)
 
 ## Skills (Technical)
 
 ![Python badge](https://img.shields.io/badge/Python-3.10.4-blue.svg)
 ![SQL badge](https://img.shields.io/badge/SQL-14.2.1-blue.svg)
+POWER BI
+EXCEL
 
 
 Thanks for visiting my GitHub profile! Feel free to explore my work and connect with me. Let's collaborate on exciting data projects! 📊🔍
