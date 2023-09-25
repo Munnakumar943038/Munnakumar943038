@@ -27,7 +27,7 @@ I 'm Data Analyst with  experience in using data to drive business results. Prov
 ![SQL badge](https://img.shields.io/badge/SQL-14.2.1-blue.svg)
 <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="Power BI Logo" width="100">
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-excel-icon.png" alt="Excel Logo" width="100">
-<img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.jpg" alt="Excel Logo" width="100">
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/sql-code-icon.png" alt="SQL Logo" width="100">
 
 Thanks for visiting my GitHub profile! Feel free to explore my work and connect with me. Let's collaborate on exciting data projects! 📊🔍
 
