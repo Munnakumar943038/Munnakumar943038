@@ -23,8 +23,8 @@ I 'm Data Analyst with  experience in using data to drive business results. Prov
 
 ## Skills (Technical)
 
-![Python badge](https://img.shields.io/badge/Python-3.10.4-blue.svg)
-![SQL badge](https://img.shields.io/badge/SQL-14.2.1-blue.svg)
+<img src="https://freepngimg.com/thumb/python_logo/6-2-python-logo-free-png-image-thumb.png" alt="Power BI Logo" width="100">
+
 <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" alt="Power BI Logo" width="100">
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-excel-icon.png" alt="Excel Logo" width="100">
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.png" alt="SQL Logo" width="100">
