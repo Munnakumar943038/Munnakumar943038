@@ -25,8 +25,7 @@ I 'm Data Analyst with  experience in using data to drive business results. Prov
 
 ![Python badge](https://img.shields.io/badge/Python-3.10.4-blue.svg)
 ![SQL badge](https://img.shields.io/badge/SQL-14.2.1-blue.svg)
-git clone https://github.com/your-username/power-bi-excel-logo.git
-cd power-bi-excel-logo
+<img src="https://cdn-dhhph.nitrocdn.com/YwrWfrMMnPrQoiMcCnngShsqFHLItupA/assets/images/optimized/rev-ac533c6/pei.com/wp-content/uploads/2016/08/maxresdefaultreduced.jpg" alt="Power BI Logo" width="100">
 
 
 Thanks for visiting my GitHub profile! Feel free to explore my work and connect with me. Let's collaborate on exciting data projects! 📊🔍
