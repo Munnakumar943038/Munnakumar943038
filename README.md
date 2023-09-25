@@ -45,5 +45,5 @@ Thanks for visiting my GitHub profile! Feel free to explore my work and connect 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
 <!--
-**Note: You can add GitHub stats using a service like https://github.com/anuraghazra/github-readme-stats.
+**Note: You can add GitHub stats using a service like https://github.com/Munna kumar gupta/github-readme-stats.
 -->
