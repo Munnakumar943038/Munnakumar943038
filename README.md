@@ -36,13 +36,8 @@ Explore my repositories for more!
 
 ![Python badge](https://img.shields.io/badge/Python-3.10.4-blue.svg)
 ![SQL badge](https://img.shields.io/badge/SQL-14.2.1-blue.svg)
-<svg class="skill-icon" viewBox="0 0 96 96">
-  <use xlink:href="https://github.com/microsoft/PowerBI-Icons/raw/main/svg/Power_BI.svg"></use>
-</svg>
-
-<svg class="skill-icon" viewBox="0 0 96 96">
-  <use xlink:href="https://github.com/microsoft/PowerBI-Icons/raw/main/svg/Excel.svg"></use>
-</svg>
+![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg)
+![Excel Logo](https://upload.wikimedia.org/wikipedia/commons/9/9a/Microsoft_Excel_2013_logo.svg)
 
 Thanks for visiting my GitHub profile! Feel free to explore my work and connect with me. Let's collaborate on exciting data projects! 📊🔍
 
