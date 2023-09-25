@@ -1,5 +1,5 @@
-<!-- Add a background image to your GitHub profile README -->
-<div style="background-image: url('https://www.springwise.com/vr-enables-immersive-3d-data-analysis/'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; height: 400px;">
+-- Add a background image to your GitHub profile README -->
+<div style="background-image: url('https://www.springwise.com/wp-content/uploads/2022/01/VR-enables-immersive-3D-data-analysis.jpg'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; height: 400px;">
   <h1 style="color: white; text-align: center; padding-top: 150px; font-size: 36px;">Welcome to my data analytics playground! 📊</h1>
 </div>
 
