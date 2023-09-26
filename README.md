@@ -9,7 +9,7 @@ I 'm Data Analyst with  experience in using data to drive business results. Prov
 ## Let's Connect
 
 📫 Feel free to reach out: [Email](munnakumar943038@gmail.com)
-💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/munna-kumar-gupta/)
+💼 LinkedIn: [Munna kumar Gupta](https://www.linkedin.com/in/munna-kumar-gupta/)
 
 ## Skills (Technical)
 
