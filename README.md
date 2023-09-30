@@ -1,31 +1,3 @@
-name: Generate 3D code blocks
-
-on:
-  push:
-    branches:
-      - main
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v3
-
-      - name: Generate 3D code blocks
-        run: |
-          npx github-markdown-3d-code-blocks README.md
-
-      - name: Commit and push changes
-        uses: actions/github-script@v6
-        with:
-          script: |
-            github.actions.createPullRequest({
-              title: "Generate 3D code blocks",
-              body: "This PR generates 3D code blocks for the README.md file.",
-              head: "${process.env.GITHUB_SHA}",
-              base: "main"
-            })
 
  # Hi, I'm Munna kumar gupta 👋
 
